@@ -1,4 +1,3 @@
-//NOMES: RAFAEL AUGUSTO BALKO DE SOUZA, E ANA CARLA DE CAMPOS.
 #include <iostream>
 
 using namespace std;
